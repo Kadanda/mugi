@@ -1,4 +1,4 @@
-<style>
+
 .button2:hover{opacity:.9}
 .button2{background:#578603 url(https://i.servimg.com/u/f74/18/12/37/46/highli11.png) repeat-x 0 0!important;border-color:#476D03!important;text-shadow:#446901 0 -1px 0!important;color:#fff!important;padding:4px 10px!important;cursor:pointer;moz-box-shadow:rgba(0,0,0,0.43) 0 1px 3px;-webkit-border-radius:2px;-webkit-box-shadow:rgba(0,0,0,0.43) 0 1px 3px;border-radius:2px;box-shadow:rgba(0,0,0,0.43) 0 1px 3px}
 #generated_form .part{background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat -235px -600px;width:60px;height:20px}
@@ -43,4 +43,4 @@ body{background:url(https://i.imgur.com/nHFzmRQ.png) 55% 1% no-repeat;background
 .tec5{background:#fff;border:1px solid #ddd;margin-top:5px;color:#6f6f6f;border-radius:2px}
 .tec:hover,.tec1:hover,.tec2:hover,.tec3:hover,.tec4:hover,.tec5:hover{box-shadow:0 0 2px #ddd;opacity:.8}
 .discri{height:70px;box-shadow:0 0 1px #ddd;padding:4px}
-</style>
+
