@@ -1,0 +1,46 @@
+<style>
+.button2:hover{opacity:.9}
+.button2{background:#578603 url(https://i.servimg.com/u/f74/18/12/37/46/highli11.png) repeat-x 0 0!important;border-color:#476D03!important;text-shadow:#446901 0 -1px 0!important;color:#fff!important;padding:4px 10px!important;cursor:pointer;moz-box-shadow:rgba(0,0,0,0.43) 0 1px 3px;-webkit-border-radius:2px;-webkit-box-shadow:rgba(0,0,0,0.43) 0 1px 3px;border-radius:2px;box-shadow:rgba(0,0,0,0.43) 0 1px 3px}
+#generated_form .part{background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat -235px -600px;width:60px;height:20px}
+#generated_form .more{background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat 0 2px;width:12px;height:20px;cursor:pointer}
+#generated_form .image .part{background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat -235px -548px;width:60px;height:20px}
+#generated_form .remove{float:left;background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat 0 -286px;padding-left:16px;width:12px;height:20px;cursor:pointer;position:relative;top:3px}
+#generated_form .image{width:300px}
+#generated_form h1{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:2em;font-weight:400;margin:.8em 0 .2em}
+#generated_form dl{margin-bottom:10px;font-size:12px;text-align:left;padding:5px}
+#generated_form dt{width:30%;padding-top:5px;border:none;float:left}
+#generated_form dd{padding-right:5px;margin-left:30%;vertical-align:middle}
+#generated_form dl:hover dt{color:#666}
+#generated_form input{font-family:"open sans",arial,sans-serif;font-weight:400;border:1px solid #ddd;color:#6f6f6f;padding:2px;vertical-align:middle;padding-left:4px}
+#generated_form input[disabled]{background-color:#ddd;cursor:pointer}
+#generated_form select{font-family:"Lucida Grande",Verdana,Helvetica,Arial,sans-serif;font-weight:400;font-style:normal;cursor:default;vertical-align:middle;width:auto;max-width:100%;padding:1px}
+#generated_form textarea{font-family:"open sans",arial,sans-serif;width:300px;height:100px;padding:2px;padding-left:4px;cursor:text;border:1px solid #ddd;color:#6f6f6f}
+#generated_form input[type=text],#generated_form input[type=fields_list]{width:300px;cursor:text;border:1px solid #ddd;color:#6f6f6f;height:25px}
+.lin{color:#6f6f6f}
+.copi{float:right;font-size:10px;margin:-5px 0 5px}
+a{font-weight:700;color:#fff;text-decoration:none}
+.descri{font-size:12px;font-style:italic;text-align:center;margin:2px auto;background-color:#EEE;-webkit-border-radius:0;border-radius:0;-webkit-box-shadow:0 0 5px 2px rgba(75,75,75,0.3);box-shadow:0 0 5px 2px rgba(75,75,75,0.3)}
+body,td,th{font-family:"open sans",arial,sans-serif;font-size:16px;color:#6f6f6f}
+body{background:url(https://i.imgur.com/nHFzmRQ.png) 55% 1% no-repeat;background-attachment:fixed;background-color:#000;margin:0}
+.anun728{border-radius:2px;margin:0 0 5px;width:730px;height:90px;border:1px solid #ddd;background:#fff;padding:4px;box-shadow:0 0 2px #ddd}
+.anun300{border-radius:2px;border:1px solid #ddd;background:#fff;padding:4px;box-shadow:0 0 2px #ddd;width:300px;height:600px;float:right}
+.conti{overflow:auto;border-radius:2px;text-align:center;margin:0 0 5px;width:730px;border:1px solid #ddd;background:#fff;padding:4px;box-shadow:0 0 2px #ddd}
+.uni{margin:0 auto;width:1065px;position:relative}
+.uni2{text-align:center;padding:10px;background-color:#FFF;-webkit-box-shadow:0 0 5px 2px rgba(75,75,75,0.3);box-shadow:0 0 5px 2px rgba(75,75,75,0.3)}
+.uni3{font-size:40px;margin:0 auto;text-align:center}
+.uni4{font-size:20px;margin:5px auto;text-align:center;color:#3d8dd1}
+.uni5{text-align:center;margin:0 0 10px}
+.uni6{text-align:center;margin:0 auto;padding:5px;background-color:#FFF;-webkit-border-radius:0;border-radius:0 -webkit-box-shadow: 0 0 5px 2px rgba(75,75,75,0.3);box-shadow:0 0 5px 2px rgba(75,75,75,0.3);min-height:610px}
+.box{height:160px;border:1px solid #ddd;border-radius:2px;padding:5px;float:left;margin:2px;width:227px;text-align:left}
+.titu{font-size:14px;font-family:"open sans",arial,sans-serif;font-weight:700}
+.box p{font-size:12px}
+.tec,.tec1,.tec2,.tec3,.tec4,.tec5{padding:5px;width:150px;text-align:center;margin:0 auto;border-radius:2px}
+.tec{background:#03A5D8}
+.tec1{background:#84c754}
+.tec2{background:#e9553c}
+.tec3{background:#E0D803}
+.tec4{background:#ecb520}
+.tec5{background:#fff;border:1px solid #ddd;margin-top:5px;color:#6f6f6f;border-radius:2px}
+.tec:hover,.tec1:hover,.tec2:hover,.tec3:hover,.tec4:hover,.tec5:hover{box-shadow:0 0 2px #ddd;opacity:.8}
+.discri{height:70px;box-shadow:0 0 1px #ddd;padding:4px}
+</style>
