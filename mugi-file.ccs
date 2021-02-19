@@ -1,46 +1,60 @@
-
-.button2:hover{opacity:.9}
-.button2{background:#578603 url(https://i.servimg.com/u/f74/18/12/37/46/highli11.png) repeat-x 0 0!important;border-color:#476D03!important;text-shadow:#446901 0 -1px 0!important;color:#fff!important;padding:4px 10px!important;cursor:pointer;moz-box-shadow:rgba(0,0,0,0.43) 0 1px 3px;-webkit-border-radius:2px;-webkit-box-shadow:rgba(0,0,0,0.43) 0 1px 3px;border-radius:2px;box-shadow:rgba(0,0,0,0.43) 0 1px 3px}
-#generated_form .part{background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat -235px -600px;width:60px;height:20px}
-#generated_form .more{background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat 0 2px;width:12px;height:20px;cursor:pointer}
-#generated_form .image .part{background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat -235px -548px;width:60px;height:20px}
-#generated_form .remove{float:left;background:url(https://2img.net/h/oi46.tinypic.com/2wrdc42.jpg) no-repeat 0 -286px;padding-left:16px;width:12px;height:20px;cursor:pointer;position:relative;top:3px}
-#generated_form .image{width:300px}
-#generated_form h1{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:2em;font-weight:400;margin:.8em 0 .2em}
-#generated_form dl{margin-bottom:10px;font-size:12px;text-align:left;padding:5px}
-#generated_form dt{width:30%;padding-top:5px;border:none;float:left}
-#generated_form dd{padding-right:5px;margin-left:30%;vertical-align:middle}
-#generated_form dl:hover dt{color:#666}
-#generated_form input{font-family:"open sans",arial,sans-serif;font-weight:400;border:1px solid #ddd;color:#6f6f6f;padding:2px;vertical-align:middle;padding-left:4px}
-#generated_form input[disabled]{background-color:#ddd;cursor:pointer}
-#generated_form select{font-family:"Lucida Grande",Verdana,Helvetica,Arial,sans-serif;font-weight:400;font-style:normal;cursor:default;vertical-align:middle;width:auto;max-width:100%;padding:1px}
-#generated_form textarea{font-family:"open sans",arial,sans-serif;width:300px;height:100px;padding:2px;padding-left:4px;cursor:text;border:1px solid #ddd;color:#6f6f6f}
-#generated_form input[type=text],#generated_form input[type=fields_list]{width:300px;cursor:text;border:1px solid #ddd;color:#6f6f6f;height:25px}
-.lin{color:#6f6f6f}
-.copi{float:right;font-size:10px;margin:-5px 0 5px}
-a{font-weight:700;color:#fff;text-decoration:none}
-.descri{font-size:12px;font-style:italic;text-align:center;margin:2px auto;background-color:#EEE;-webkit-border-radius:0;border-radius:0;-webkit-box-shadow:0 0 5px 2px rgba(75,75,75,0.3);box-shadow:0 0 5px 2px rgba(75,75,75,0.3)}
-body,td,th{font-family:"open sans",arial,sans-serif;font-size:16px;color:#6f6f6f}
-body{background:url(https://i.imgur.com/nHFzmRQ.png) 55% 1% no-repeat;background-attachment:fixed;background-color:#000;margin:0}
-.anun728{border-radius:2px;margin:0 0 5px;width:730px;height:90px;border:1px solid #ddd;background:#fff;padding:4px;box-shadow:0 0 2px #ddd}
-.anun300{border-radius:2px;border:1px solid #ddd;background:#fff;padding:4px;box-shadow:0 0 2px #ddd;width:300px;height:600px;float:right}
-.conti{overflow:auto;border-radius:2px;text-align:center;margin:0 0 5px;width:730px;border:1px solid #ddd;background:#fff;padding:4px;box-shadow:0 0 2px #ddd}
-.uni{margin:0 auto;width:1065px;position:relative}
-.uni2{text-align:center;padding:10px;background-color:#FFF;-webkit-box-shadow:0 0 5px 2px rgba(75,75,75,0.3);box-shadow:0 0 5px 2px rgba(75,75,75,0.3)}
-.uni3{font-size:40px;margin:0 auto;text-align:center}
-.uni4{font-size:20px;margin:5px auto;text-align:center;color:#3d8dd1}
-.uni5{text-align:center;margin:0 0 10px}
-.uni6{text-align:center;margin:0 auto;padding:5px;background-color:#FFF;-webkit-border-radius:0;border-radius:0 -webkit-box-shadow: 0 0 5px 2px rgba(75,75,75,0.3);box-shadow:0 0 5px 2px rgba(75,75,75,0.3);min-height:610px}
-.box{height:160px;border:1px solid #ddd;border-radius:2px;padding:5px;float:left;margin:2px;width:227px;text-align:left}
-.titu{font-size:14px;font-family:"open sans",arial,sans-serif;font-weight:700}
-.box p{font-size:12px}
-.tec,.tec1,.tec2,.tec3,.tec4,.tec5{padding:5px;width:150px;text-align:center;margin:0 auto;border-radius:2px}
-.tec{background:#03A5D8}
-.tec1{background:#84c754}
-.tec2{background:#e9553c}
-.tec3{background:#E0D803}
-.tec4{background:#ecb520}
-.tec5{background:#fff;border:1px solid #ddd;margin-top:5px;color:#6f6f6f;border-radius:2px}
-.tec:hover,.tec1:hover,.tec2:hover,.tec3:hover,.tec4:hover,.tec5:hover{box-shadow:0 0 2px #ddd;opacity:.8}
-.discri{height:70px;box-shadow:0 0 1px #ddd;padding:4px}
-
+dt.online{background-image:url(https://i.imgur.com/TtkaA2F.png);background-repeat:no-repeat;background-position:0 0}
+.posinfoimg img{display:none!important}
+.posinfoimg{border:0!important;width:100%;padding:5px 0;line-height:13px!important;font-size:12px!important}
+.sceditor-container.ltr.sourceMode textarea{width:100%!important}
+.fa-posting-options{padding:0!important;margin:20px 0!important}
+p.right{float:right}
+.boxsorcard{text-align:center}
+#campo2{position:absolute;margin-left:-225px;margin-top:-20px}
+#campo3{width:180px}
+.block2{display:inline}
+.block{margin-bottom:0;padding:10px}
+#quick_reply{margin-top:-30px}
+.quickmod,.jumpbox,.escn .h3{display:none}
+.voteSuccess0{margin:5px!important}
+.btn-report img{height:13px}
+.micon{float:right;margin-top:3px}
+.post-head{height:30px;border-bottom:0 solid #ddd!important;padding:0;border-radius:0}
+.numtopic{margin-left:5px;float:right;font-weight:100;padding:4px 15px}
+.post-head .profile-icons{float:none;width:100%;margin:0}
+.post{float:right}
+.profile-icons li{margin:0}
+.btn-report a + a{margin:0!important}
+.profile-icons a,.profile-icons span{padding:9px 6px;border-radius:0;width:30px;text-align:center}
+.postprofile-contact a{float:left;margin:0 2px!important;padding:5px 2px}
+.postprofile-info img{padding:1px;height:45px}
+.postprofile-contact img{border-radius:2px;height:auto}
+.edited-message{padding:0 10px}
+.rep-button,.rep-button:active,.rep-button:focus{border-radius:0;width:50%;margin:0}
+.fa_like_div{padding:10px 0}
+.postprofile-info{line-height:0;border-top:1px solid #ddd;text-align:center}
+div.btn-votes{padding:5px 8px}
+.curtm{display:none;border-radius:0;background:#1481c2;color:#fff;margin-bottom:5px;float:right;margin-left:5px;margin-right:-10px;text-align:center}
+.boxpost2{margin:3px 0}
+.post{width:79.5%;margin-bottom:0;border-radius:0}
+.postbody{border-top:1px solid #ddd;min-height:390px}
+.boxship a::after{font-size:9px;content:"\f08e";font-family:FontAwesome;padding-left:5px}
+.boxship a{color:#333!important;font-size:11px;background:#fff;width:100%;float:left;padding:5px;margin-bottom:10px}
+.boxship{background:#333;width:100%;color:#fff;text-align:center;font-size:12px;padding:0;text-transform:uppercase}
+div[class*='post--'] .postbody td{border:0 solid #ddd!important}
+.levpr:before{content:"Nível do Personagem:";vertical-align:middle;margin-right:10px}
+.mnar:before{content:"Média de Narração:";vertical-align:middle;margin-right:10px}
+.topic-date{padding:6px!important;float:right}
+a.ion-edit.button1[alt="Novo Tópico"]::after{content:"Novo Tópico";color:#fff}
+a.ion-edit.button1[alt="Este Fórum está Bloqueado. Você não pode enviar, responder ou editar mensagens"]::after{content:"Bloqueado";color:#fff}
+a.ion-reply.button1[alt="Este Tópico está bloqueado. Você não pode editar as mensagens ou responder."],a.ion-edit.button1[alt="Este Fórum está Bloqueado. Você não pode enviar, responder ou editar mensagens"]{background:#6b1d1d url(https://i.servimg.com/u/f74/18/12/37/46/highli11.png) repeat-x 0 0!important}
+.pagination span a.pag-img{background-color:transparent!important}
+.pagination span a:active,.pagination span a:link,.pagination span a:visited{background-color:#333;border-radius:2px;color:#FFF;display:inline-block;font-size:1.2rem;font-weight:700;line-height:25px;margin:0 5px 0 0;padding:0;text-align:center;text-decoration:none;width:25px}
+.pagination span strong{background-color:#1481c2;border-radius:2px;display:inline-block;color:#fff;font-size:1.2rem;font-weight:700;line-height:30px;margin:0 5px 0 0;padding:0;text-align:center;text-decoration:none;width:25px}
+.topic-actions-buttons{float:none;position:relative}
+.topic-actions.bottom .topic-actions-buttons{float:right;margin:0!important}
+.quick-nav-topicstop{float:left}
+.obs{display:inline-block}
+h1.page-title{font-size:20px;text-transform:uppercase;margin-bottom:10px}
+.flagg a{display:none;background-image:url(https://i.imgur.com/JXR5D14.gif);background-repeat:no-repeat;background-position:50%;background-size:cover;width:100%;height:100px}
+a.ion-edit.button1[alt="Este Fórum está Bloqueado. Você não pode enviar, responder ou editar mensagens"]::after{content:"Bloqueado";color:#fff}
+#qreply{margin-bottom:15px}
+.quick-nav-topics.bottom,.quick-nav-topics,.topic-actions{margin:5px 0}
+.sub-header-info{width:48%}
+.sub-header-buttons{text-align:right;margin:0 auto;width:52%}
+.bxpf{border:1px solid #ddd;float:left;width:20%}
